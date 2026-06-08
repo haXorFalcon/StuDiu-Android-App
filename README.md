@@ -20,7 +20,7 @@
 
 <div align="center">
 
-> **StuDIU** — A user-friendly cost management app built exclusively for hostel students of **Daffodil International University**.  
+> **StuDIU** ; A user-friendly cost management app built exclusively for hostel students of **Daffodil International University**.  
 > Track expenses, split bills, and stay on top of your finances — all in one place.
 
 </div>
