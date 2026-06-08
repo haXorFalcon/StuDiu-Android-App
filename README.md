@@ -133,21 +133,6 @@ npx react-native run-android
 <br/>
 
 ---
-
-## 📂 Repository Structure
-
-```
-StuDiu-Android-App/
-│
-├── android/              # Android native files
-├── src/                  # React Native source code
-│   ├── components/       # Reusable UI components
-│   ├── screens/          # App screens
-│   └── utils/            # Helper functions
-├── LICENSE               # MIT License
-└── README.md             # You are here
-```
-
 <br/>
 
 ---
