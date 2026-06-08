@@ -133,9 +133,6 @@ npx react-native run-android
 <br/>
 
 ---
-<br/>
-
----
 
 ## 🎯 Who Is This For?
 
