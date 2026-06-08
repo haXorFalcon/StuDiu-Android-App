@@ -29,16 +29,13 @@
 
 <div align="center">
 
-<a href="https://github.com/haXorFalcon/StuDiu-Android-App/releases/latest/download/StuDiu-v1.apk">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=18&duration=2500&pause=800&color=00E5FF&background=0D213700&center=true&vCenter=true&width=380&height=55&lines=⬇+Download+StuDIU+APK;📦+StuDiu+v1+%7C+Android+6.0%2B;🚀+Free+%26+Open+Source" alt="Download StuDIU APK"/>
-</a>
+[![Download StuDIU APK](https://img.shields.io/badge/⬇%20%20Download%20StuDIU%20v1%20APK-00b4d8?style=for-the-badge&logo=android&logoColor=white&labelColor=03045e)](https://github.com/haXorFalcon/StuDiu-Android-App/releases/download/v1.0/StuDiu.apk)
 
-<br/><br/>
+<br/>
 
-[![Download APK](https://img.shields.io/badge/-%E2%AC%87%20%20DOWNLOAD%20APK%20%20%E2%80%94%20%20StuDIU%20v1-0d2137?style=for-the-badge&logo=android&logoColor=00e5ff&labelColor=0d1117)](https://github.com/haXorFalcon/StuDiu-Android-App/releases/latest)
-
-![Android](https://img.shields.io/badge/Android%206.0%2B-Required-444?style=flat-square&logo=android&logoColor=00e5ff)
-![Size](https://img.shields.io/badge/Free%20%26%20Open%20Source-MIT-444?style=flat-square&logo=opensourceinitiative&logoColor=00e5ff)
+![Android 6.0+](https://img.shields.io/badge/Android-6.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Free](https://img.shields.io/badge/Free-%26%20Open%20Source-0077b6?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)
 
 </div>
 
