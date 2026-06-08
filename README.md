@@ -75,7 +75,6 @@
 |---------|-------------|
 | 💰 Cost Tracking | Log and monitor your daily spending in real time |
 | 📊 Expense Management | Organize expenses by category with visual breakdown |
-| 🏠 Hostel Bill Split | Easily divide shared costs among roommates |
 | 📝 Expense Log | Clean history of all transactions at a glance |
 
 <br/>
