@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Download StuDIU APK](https://img.shields.io/badge/⬇%20%20Download%20StuDIU%20v1%20APK-00b4d8?style=for-the-badge&logo=android&logoColor=white&labelColor=03045e)](https://github.com/haXorFalcon/StuDiu-Android-App/releases/download/v1.0/StuDiu.apk)
+[![Download StuDIU APK](https://img.shields.io/badge/⬇%20%20Download%20StuDIU%20v1%20APK-017E40?style=for-the-badge&logo=android&logoColor=white&labelColor=03045e)](https://github.com/haXorFalcon/StuDiu-Android-App/releases/download/v1.0/StuDiu.apk)
 <br><br>
 [![Live Preview](https://img.shields.io/badge/🌐%20%20Live%20Preview-stu--diu.vercel.app-6e40c9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://stu-diu.vercel.app)
 
