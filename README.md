@@ -30,12 +30,14 @@
 <div align="center">
 
 [![Download StuDIU APK](https://img.shields.io/badge/⬇%20%20Download%20StuDIU%20v1%20APK-00b4d8?style=for-the-badge&logo=android&logoColor=white&labelColor=03045e)](https://github.com/haXorFalcon/StuDiu-Android-App/releases/download/v1.0/StuDiu.apk)
+[![Live Preview](https://img.shields.io/badge/🌐%20%20Live%20Preview-stu--diu.vercel.app-6e40c9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://stu-diu.vercel.app)
 
 <br/>
 
 ![Android 6.0+](https://img.shields.io/badge/Android-6.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Free](https://img.shields.io/badge/Free-%26%20Open%20Source-0077b6?style=flat-square&logo=opensourceinitiative&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)
+![Live](https://img.shields.io/badge/Live-stu--diu.vercel.app-success?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
